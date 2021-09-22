@@ -19,6 +19,7 @@ evaluate-news-article (a part of Udacity's Advanced Front-End Web Development Na
 - Js
 - Webpack
 - node
+- jest
 
 ## Author.
 
